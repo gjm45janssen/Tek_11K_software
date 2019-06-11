@@ -5,7 +5,7 @@ This software runs under Python. The Python version I use is 3.7.1.
 
 1. CSA803A_screendump.py
 
-This program is strongly based on the screendump software using the serial interface, written by Gudjon Gudjonsson:  https://github.com/GauiStori/tekprogs/tree/master/csa803c/utils
+This program is strongly based on the screendump software using the serial interface, written by Gudjon Gudjonsson:  https://github.com/GauiStori/tekprogs/tree/master/csa803c/utils .
 However, I found a small bug in the decoding part of this software, which caused pixels to be mixed up resulting in distorted letters sometimes.
 
 For the screendump program to work, the following modules need to be installed:
